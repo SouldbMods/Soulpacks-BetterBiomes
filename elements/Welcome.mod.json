@@ -1,0 +1,9 @@
+{
+  "_fv": 17,
+  "_type": "function",
+  "definition": {
+    "code": "# Enter the function code here\nsay §2-------------------------\nsay §6Soulpacks §bBetter Biomes\nsay §bby MVP§4+ §bSouldbminer\nsay §2--------------------------",
+    "name": "welcome",
+    "namespace": "mod"
+  }
+}
