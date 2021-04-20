@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "function",
   "definition": {
-    "code": "# Enter the function code here\nsay §2-------------------------\nsay §6Soulpacks §bBetter Biomes\nsay §bby MVP§4+ §bSouldbminer\nsay §2--------------------------",
+    "code": "# Enter the function code here\nsay §2-------------------------\nsay §6Soulpacks §bBetter Biomes\nsay §bby MVP§4+ §bSouldbminer\nsay §2--------------------------\n#Show welcome message on world load\n# \t§= Color setter",
     "name": "welcome",
     "namespace": "mod"
   }

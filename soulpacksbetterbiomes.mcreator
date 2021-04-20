@@ -27,12 +27,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "welcome"
+    },
+    {
+      "name": "AshyShores",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ashy_shores"
+    },
+    {
+      "name": "HugeMountians",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "huge_mountians"
+    },
+    {
+      "name": "Installpack",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "installpack"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "biome.soulpacksbetterbiomes.ashy_shores": "Ashy Shores",
+      "biome.soulpacksbetterbiomes.huge_mountians": "Huge Mountians"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -40,7 +70,7 @@
   },
   "workspaceSettings": {
     "modid": "soulpacksbetterbiomes",
-    "modName": "Soulpacks-BetterBiomes",
+    "modName": "§6Soulpacks §bBetter Biomes",
     "version": "1.0.0",
     "author": "Admin, MCreator",
     "websiteURL": "https://mcreator.net",
